@@ -1,5 +1,3 @@
-from tkinter.font import names
-
 from rest_framework import serializers
 from .models import (
     UserProfile, Category, Country, Director, Actor, Genre,
